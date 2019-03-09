@@ -1,2 +1,2 @@
 # EarthModVolume
-A python powered tool that uses  the support vector machine to gtenerate volumetric models from geologic cross sections.
+A python powered tool that uses the support vector machine algorithm to gtenerate volumetric models from geologic cross sections.
