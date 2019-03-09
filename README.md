@@ -15,4 +15,4 @@ This tool requres the instalation of pyqtgraph, pandas, numpy, scipy, sklearn, a
 Should you run into problems after isntalling the requered packages, the following are the exact versions of said packages. pyqtgraph 0.10.0,
 pandas 0.23.1, numpy 1.15.4, scipy 1.1.0, scikit-learn 0.18.2, matplotlib 1.5.1.
 
-The project is a work in progress. I'm working on automating a few workflows, and eventually introducing the PNN algorithm as an alternative for generating volumetric models from geologic cross-sections. This was my masters thesis which I have attached a copy of. 
+The project is a work in progress. I'm working on automating a few workflows, and eventually introducing the PNN algorithm as an alternative for generating volumetric models from geologic cross-sections. If you would like to have a copy of my masters thesis, please feel free to send me an email: at joey-92@live.com or jgcastro@miners.utep.edu.
