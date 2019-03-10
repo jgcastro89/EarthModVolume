@@ -5,7 +5,7 @@ from sklearn import preprocessing
 from pyqtgraph import QtGui
 
 from volume_model import VolumeModel, Geol_Map
-from surface_model import GridSurface
+# from surface_model import GridSurface
 
 
 class ModelLogic(QtGui.QMainWindow):
